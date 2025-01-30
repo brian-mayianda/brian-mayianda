@@ -4,14 +4,20 @@ I am a **software engineer** focusing on **front-end engineering**
 
 ### Here's my Tech Stack:
 
-- **Programming:** JavaScript
+✅ **Programming:** JavaScript
 
-- **Frameworks:** React.js, Tailwind
+✅ **Frameworks:** React.js, Tailwind
 
-- **Tools:** Git, Figma, Visual Studio Code, Replit, Codepen
+✅ **UI Design:** Figma
+
+✅ **Tools:** Git, Visual Studio Code, Replit, Codepen
+
+
+
 
 
 <!--
+
 **brian-masaki/brian-masaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -24,4 +30,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
