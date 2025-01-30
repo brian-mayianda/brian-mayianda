@@ -2,7 +2,7 @@
 
 I am a **software engineer** focusing on **front-end engineering**
 
-### Heres's my Tech Stack:
+### Here's my Tech Stack:
 
 - **Programming:** JavaScript
 
