@@ -6,7 +6,7 @@ I am a **software engineer** focusing on **front-end engineering**
 
 ✅ **Programming:** JavaScript
 
-✅ **Basic web technologies:** HTML, CSS & JavaScript
+✅ **Basic web technologies:** HTML & CSS
 
 ✅ **Frameworks:** React.js & Tailwind
 
