@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my profile
+
+I am a **software engineer** focusing on **front-end engineering**
+
+### Heres's my Tech Stack:
+
+- **Programming:** JavaScript
+
+- **Frameworks:** React.js, Tailwind
+
+- **Tools:** Git, Figma, Visual Studio Code, Replit, Codepen
+
 
 <!--
 **brian-masaki/brian-masaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
