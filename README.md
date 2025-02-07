@@ -8,7 +8,7 @@ I am a **software engineer** focusing on **front-end engineering**
 
 ✅ **Basic web technologies:** HTML & CSS
 
-✅ **Frameworks:** React.js & Tailwind
+✅ **Frameworks:** React.js & TailwindCSS
 
 ✅ **UI Design:** Figma
 
