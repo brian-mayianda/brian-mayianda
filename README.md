@@ -4,7 +4,7 @@ I am a **software engineer** focusing on **front-end engineering**
 
 ### Here's my Tech Stack:
 
-✅ **Programming:** JavaScript, Typescript 
+✅ **Programming:** JavaScript, TypeScript 
 
 ✅ **Basic web technologies:** HTML & CSS
 
