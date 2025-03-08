@@ -6,9 +6,11 @@ I am a **software engineer** focusing on **front-end engineering**
 
 ✅ **Programming:** JavaScript, TypeScript 
 
-✅ **Basic web technologies:** HTML & CSS
+✅ **Frameworks:** React.js, Next.js, Node.js & TailwindCSS
 
-✅ **Frameworks:** React.js, Next.js & TailwindCSS
+✅ **Databases:** MySQL
+
+✅ **Basic web technologies:** HTML & CSS
 
 ✅ **UI Design:** Figma
 
