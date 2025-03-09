@@ -4,11 +4,11 @@ I am a **software engineer** focusing on **front-end engineering**
 
 ### Here's my Tech Stack:
 
-✅ **Programming:** JavaScript, TypeScript 
+✅ **Programming:** JavaScript, TypeScript, Python, C
 
 ✅ **Frameworks:** React.js, Next.js, Node.js & TailwindCSS
 
-✅ **Databases:** MySQL
+✅ **Databases:** MySQL & MongoDB
 
 ✅ **Basic web technologies:** HTML & CSS
 
