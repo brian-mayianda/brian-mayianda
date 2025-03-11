@@ -4,7 +4,7 @@ I am a **software engineer** focusing on **front-end engineering**
 
 ### Here's my Tech Stack:
 
-✅ **Programming:** JavaScript, TypeScript, Python, C
+✅ **Programming:** JavaScript, TypeScript
 
 ✅ **Frameworks:** React.js, Next.js, Node.js & TailwindCSS
 
@@ -14,7 +14,7 @@ I am a **software engineer** focusing on **front-end engineering**
 
 ✅ **UI Design:** Figma
 
-✅ **Tools:** Git, Visual Studio Code, Replit, Codepen
+✅ **Tools:** Git, Visual Studio Code
 
 
 
