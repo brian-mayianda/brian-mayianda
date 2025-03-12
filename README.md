@@ -4,7 +4,7 @@ I am a **software engineer** focusing on **front-end engineering**
 
 ### Here's my Tech Stack:
 
-✅ **Programming:** JavaScript, TypeScript
+✅ **Programming:** JavaScript, TypeScript, Python
 
 ✅ **Frameworks:** React.js, Next.js, Node.js & TailwindCSS
 
