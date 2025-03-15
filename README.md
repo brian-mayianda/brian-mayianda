@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to my profile
 
-I am a **software engineer** focusing on **front-end engineering**
+I am a **software engineer** focusing on **fullstack development**. I aspire to build pragmatic, stunning and scalable solutions.
 
 ### Here's my Tech Stack:
 
