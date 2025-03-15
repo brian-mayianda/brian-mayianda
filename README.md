@@ -14,6 +14,8 @@ I am a **software engineer** focusing on **fullstack development**. I aspire to 
 
 ✅ **Basic web technologies:** HTML & CSS
 
+✅ **CSS Preprocessor:** Sass
+
 ✅ **UI Design:** Figma
 
 ✅ **Tools:** Git, Visual Studio Code
