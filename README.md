@@ -6,9 +6,11 @@ I am a **software engineer** focusing on **front-end engineering**
 
 ✅ **Programming:** JavaScript, TypeScript, Python
 
-✅ **Frameworks:** React.js, Next.js, Node.js, Express.js & TailwindCSS
+✅ **Frameworks:** React.js, Next.js, Node.js, Express.js, Django & TailwindCSS
 
-✅ **Databases:** MySQL & MongoDB
+✅ **Databases:** MySQL, MongoDB & Redis
+
+✅ **DevOps:** AWS, NGINX, Docker & Kubernetes
 
 ✅ **Basic web technologies:** HTML & CSS
 
