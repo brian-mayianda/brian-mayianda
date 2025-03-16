@@ -3,7 +3,9 @@
 I am a **software engineer** focusing on **fullstack development**. I aspire to build pragmatic, stunning and scalable solutions.
 
 - All these JavaScript bugs need is just a little comfort. You gotta know how to console them.
-  
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brian-mayianda&label=Profile%20views&color=0e75b6&style=flat" alt="brian-mayianda" /> </p>
+
 ### Here's my Tech Stack:
 
 ✅ **Programming:** JavaScript, TypeScript, Python
