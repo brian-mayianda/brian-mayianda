@@ -22,10 +22,14 @@ I am a **software engineer** focusing on **fullstack development**. I aspire to 
 
 ✅ **Tools:** Git, Visual Studio Code
 
+
 - 📫 **Connect with me:**
 
 I'm always open to forming new connections, reach out to me. Let's connect.
 
-- How to reach me: <a href="mailto:brianmayianda@gmail.com" target="_blank"> Email <a/>  |  <a href="https://www.linkedin.com/in/brian-mayianda/" target="_blank"> LinkedIn <a/>  |  <a href="https://x.com/BrianMayianda" target="_blank"> X <a/>  |  <a href="https://medium.com/@brianmayianda" target="_blank"> Medium <a/>
+- How to reach me: <a href="mailto:brianmayianda@gmail.com" target="_blank"> Email <a/>
+|  <a href="https://www.linkedin.com/in/brian-mayianda/" target="_blank"> LinkedIn <a/>
+|  <a href="https://x.com/BrianMayianda" target="_blank"> X <a/>
+|  <a href="https://medium.com/@brianmayianda" target="_blank"> Medium <a/>
 
 
