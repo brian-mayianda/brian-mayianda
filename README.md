@@ -1,7 +1,9 @@
 ## Hi there 👋 Welcome to my profile
 
-I am a **software engineer** focusing on **fullstack development**. I aspire to build pragmatic, stunning and scalable solutions.
+I am a **software engineer** focusing on <**fullstack development**/>. I aspire to build pragmatic, stunning and scalable solutions.
 
+- All these JavaScript bugs need is just a little comfort. You gotta know how to console them.
+  
 ### Here's my Tech Stack:
 
 ✅ **Programming:** JavaScript, TypeScript, Python
