@@ -26,10 +26,9 @@ I am a **software engineer** focusing on **fullstack development**. I aspire to 
 
 ✅ **Tools:** Git, Visual Studio Code
 
+<img align="right" style="border-radius: 8px" alt="Coding" width="300" src="images/dev.gif">
 
 - 📫 **Connect with me:**
-
-<img align="right" style="border-radius: 8px" alt="Coding" width="300" src="images/dev.gif">
 
 I'm always open to forming new connections, reach out to me. Let's connect.
 
