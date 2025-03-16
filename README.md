@@ -8,6 +8,8 @@ I am a **software engineer** focusing on **fullstack development**. I aspire to 
 
 ### Here's my Tech Stack:
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=brian-mayianda&show_icons=true&locale=en&layout=compact" alt="brian-mayianda" />
+
 ✅ **Programming:** JavaScript, TypeScript, Python
 
 ✅ **Frameworks:** React.js, Next.js, Node.js, Express.js, Django & TailwindCSS
