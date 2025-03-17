@@ -1,14 +1,19 @@
+<img align="top" style="border-radius: 8px" alt="Coding" width="400" height="200" src="images/dev.gif">
+
 ## Hi there 👋 Welcome to my profile
 
 I am a **software engineer** focusing on **fullstack development**. I aspire to build pragmatic, stunning and scalable solutions.
 
 - All these JavaScript bugs need is just a little comfort. You gotta know how to console them.
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brian-mayianda&label=Profile%20views&color=0e75b6&style=flat" alt="brian-mayianda" /> </p>
 
-### Here's my Tech Stack:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=brian-mayianda&show_icons=true&locale=en&layout=compact" alt="brian-mayianda" />
+
+
+### Here's my Tech Stack:
 
 ✅ **Programming:** JavaScript, TypeScript, Python
 
@@ -26,7 +31,6 @@ I am a **software engineer** focusing on **fullstack development**. I aspire to 
 
 ✅ **Tools:** Git, Visual Studio Code
 
-<img align="right" style="border-radius: 8px" alt="Coding" width="300" src="images/dev.gif">
 
 - 📫 **Connect with me:**
 
