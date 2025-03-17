@@ -1,4 +1,4 @@
-<img align="top" style="border-radius: 8px" alt="Coding" width="400" height="200" src="images/dev.gif">
+<img align="top" style="border-radius: 12px" alt="Coding" width="300" height="200" src="images/dev.gif">
 
 ## Hi there 👋 Welcome to my profile
 
