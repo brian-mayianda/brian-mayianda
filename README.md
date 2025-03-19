@@ -17,11 +17,9 @@ I am a **software engineer** focusing on **fullstack development**. I aspire to 
 
 ✅ **Programming:** JavaScript, TypeScript, Python
 
-✅ **Frameworks:** React.js, Next.js, Node.js, Express.js, Django & TailwindCSS
-
 ✅ **Databases:** MySQL, MongoDB & Redis
 
-✅ **DevOps:** AWS, NGINX, Docker & Kubernetes
+✅ **Frameworks:** React.js, Next.js, Node.js, Express.js, Django & TailwindCSS
 
 ✅ **Basic web technologies:** HTML & CSS
 
@@ -31,6 +29,7 @@ I am a **software engineer** focusing on **fullstack development**. I aspire to 
 
 ✅ **Tools:** Git, Visual Studio Code
 
+<!--- ✅ **DevOps:** AWS, NGINX, Docker & Kubernetes --->
 
 - 📫 **Connect with me:**
 
@@ -43,4 +42,6 @@ I'm always open to forming new connections, reach out to me. Let's connect.
 |  <a href="https://x.com/BrianMayianda" target="_blank"> X <a/>
 |  <a href="https://medium.com/@brianmayianda" target="_blank"> Medium <a/> 
 
+- 👨‍🎓 My portfolio:
 
+- <a href="https://brian-mayianda.github.io" target="_blank"> Portfolio <a/> 
