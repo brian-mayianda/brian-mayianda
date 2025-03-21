@@ -21,6 +21,8 @@ I am a **software engineer** focusing on **fullstack development**. I aspire to 
 
 ✅ **Frameworks:** React.js, Next.js, Node.js, Express.js, Django & TailwindCSS
 
+✅ **DevOps:** AWS, NGINX, Docker & Kubernetes
+
 ✅ **Basic web technologies:** HTML & CSS
 
 ✅ **CSS Preprocessors:** Sass
@@ -28,8 +30,6 @@ I am a **software engineer** focusing on **fullstack development**. I aspire to 
 ✅ **UI Design:** Figma
 
 ✅ **Tools:** Git, Visual Studio Code
-
-<!--- ✅ **DevOps:** AWS, NGINX, Docker & Kubernetes --->
 
 - 📫 **Connect with me:**
 
