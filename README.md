@@ -19,7 +19,7 @@ I am a **software engineer** focusing on **fullstack development**. I aspire to 
 
 ✅ **Databases:** MySQL, MongoDB, Redis
 
-✅ **Frameworks:** React.js, Next.js, Node.js, Express.js, Django, TailwindCSS
+✅ **Frameworks:** React.js, Next.js, TailwindCSS, Node.js, Express.js, Django
 
 ✅ **DevOps:** NGINX, AWS, Docker, Kubernetes
 
