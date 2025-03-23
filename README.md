@@ -29,7 +29,7 @@ I am a **software engineer** focusing on **fullstack development**. I aspire to 
 
 ✅ **UI Design:** Figma
 
-✅ **Tools:** Git, Visual Studio Code
+✅ **Tools:** Git, VS Code, Replit
 
 - 📫 **Connect with me:**
 
